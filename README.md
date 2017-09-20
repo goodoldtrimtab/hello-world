@@ -1,2 +1,2 @@
 # hello-world
-training
+This is a training exercise.
